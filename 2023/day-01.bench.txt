@@ -1,0 +1,8 @@
+day_01    fastest       │ slowest       │ median        │ mean          │ samples │ iters
+╰─ part1  200.3 µs      │ 364 µs        │ 208.6 µs      │ 213 µs        │ 100     │ 100
+
+day_01                 fastest       │ slowest       │ median        │ mean          │ samples │ iters
+├─ part2               1.118 ms      │ 1.882 ms      │ 1.193 ms      │ 1.22 ms       │ 100     │ 100
+├─ part2_aho_corasick  39.69 ms      │ 46.99 ms      │ 40.43 ms      │ 40.89 ms      │ 100     │ 100
+╰─ part2_nom           823.4 µs      │ 1.267 ms      │ 849.9 µs      │ 873.5 µs      │ 100     │ 100
+
